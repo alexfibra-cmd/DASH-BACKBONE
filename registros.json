@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "data": "2025-10-20",
+    "status": "Aberto",
+    "responsavel": "Fulano",
+    "setor": "Setor X",
+    "descricao": "Registro de teste 1",
+    "acao": "Ações iniciais",
+    "observacoes": "Sem observações"
+  },
+  {
+    "id": 2,
+    "data": "2025-10-21",
+    "status": "Em andamento",
+    "responsavel": "Ciclano",
+    "setor": "Setor Y",
+    "descricao": "Registro de teste 2",
+    "acao": "Tratativa em curso",
+    "observacoes": "Prioridade média"
+  }
+]
